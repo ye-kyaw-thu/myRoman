@@ -17,6 +17,9 @@ Please cite
 
 Wint Theingi Zaw, Shwe Sin Moe, Ye Kyaw Thu, Nyein Nyein Oo, "Applying Weighted Finite State Transducers and Ripple Down Rules for Myanmar Name Romanization", In Proceedings of the 17th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON 2020), June 24-27, 2020, Virtual Conference Hosted by College of Computing, Prince of Songkla University, Thailand, pp. 143-148.[[Paper]](https://github.com/ye-kyaw-thu/papers/blob/master/ECTI-CON2020/PID6499733.pdf)  
 
+```sentence (version 1.0):``` preparing to release... (please wait)  
+
+
 ## Publications
 
 1. Wint Theingi Zaw, Shwe Sin Moe, Ye Kyaw Thu, Nyein Nyein Oo, "Applying Weighted Finite State Transducers and Ripple Down Rules for Myanmar Name Romanization", In Proceedings of the 17th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON 2020), June 24-27, 2020, Virtual Conference Hosted by College of Computing, Prince of Songkla University, Thailand, pp. 143-148.[[Paper]](https://github.com/ye-kyaw-thu/papers/blob/master/ECTI-CON2020/PID6499733.pdf)  
