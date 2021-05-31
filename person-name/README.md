@@ -28,18 +28,18 @@ Table. Possible Romanization of 10 Burmese Syllables
 
 ## Names of Major Ethnic Groups
 
-ကရင်
-=====================
-နော် ထူး စေး ဝါး ခိုင်	naw htoo say wah khaing
-နော် ထူး စေး ဝါး ခိုင်	naw htoo say wah khine
-နော် ထူး စေး ဝါး ခိုင်	naw htoo say war khaing
-နော် ထူး စေး ဝါး ခိုင်	naw htoo say war khine
-နော် ထူး စေး ဝါး ခိုင်	naw htue say wah khaing
-နော် ထူး စေး ဝါး ခိုင်	naw htue say wah khine
-နော် ထူး စေး ဝါး ခိုင်	naw htue say war khaing
-နော် ထူး စေး ဝါး ခိုင်	naw htue say war khine
-နော် နော်	naw naw
-နော် ဖြူ နှင်း လွင်	naw phyu hnin lwin
+### ကရင်
+
+နော် ထူး စေး ဝါး ခိုင်	naw htoo say wah khaing  
+နော် ထူး စေး ဝါး ခိုင်	naw htoo say wah khine  
+နော် ထူး စေး ဝါး ခိုင်	naw htoo say war khaing  
+နော် ထူး စေး ဝါး ခိုင်	naw htoo say war khine  
+နော် ထူး စေး ဝါး ခိုင်	naw htue say wah khaing  
+နော် ထူး စေး ဝါး ခိုင်	naw htue say wah khine  
+နော် ထူး စေး ဝါး ခိုင်	naw htue say war khaing  
+နော် ထူး စေး ဝါး ခိုင်	naw htue say war khine  
+နော် နော်	naw naw  
+နော် ဖြူ နှင်း လွင်	naw phyu hnin lwin  
 နော် မေ မြတ်	naw may myat
 နော် မိုင် လ ဗန်	naw mai la van
 နော် မိုင် လ ဗန်	naw mine la van
