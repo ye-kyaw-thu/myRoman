@@ -10,7 +10,7 @@ Myanmar names are combined with syllables. Based on our study, current person-na
 <p align="center">
   
 | No | Burmese Name | Romanized Burmese Name |
-|----|--------------|------------------------|
+|:----|:--------------:|:------------------------:|
 | 1. | မှူး | Hmoo, Hmooe, Hmue, Mhoo, Mhooe, Mhue |
 | 2. | ဖူး | Phoo, Phu, Phuu, Phue |
 | 3. | ဝတ် | Wit, Wyit, Wuit, Wutt, Wyut |
