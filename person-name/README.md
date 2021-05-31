@@ -28,7 +28,9 @@ Table. Possible Romanization of 10 Burmese Syllables
 
 ## Names of Major Ethnic Groups
 
-### ကရင်
+We collected not only Bamar names but also names of several major ethnic groups such as Kachin, Kayah, Kayin, Chin, Mon, Rakhine. Some examples are as follows:  
+
+### ကရင် (Kayin)
 
 - နော် ထူး စေး ဝါး ခိုင် naw htoo say wah khaing  
 - နော် ထူး စေး ဝါး ခိုင်	naw htoo say wah khine  
@@ -83,7 +85,7 @@ Table. Possible Romanization of 10 Burmese Syllables
 - စော လင်း ထိုက်	saw lynn htaik
 - စော လင်း ထိုက်	saw lynn htike
 
-### ရှမ်း
+### ရှမ်း (Shan)
 
 - နန်း ဆိုင် နွံ ခေး	nang hseng nong khay
 - နန်း ဆိုင် နွံ ခေး	nang hseng non khay
@@ -186,7 +188,7 @@ Table. Possible Romanization of 10 Burmese Syllables
 - ခွန် ဝင်း မင်း သိန်း	khun wynn min thein
 
 
-### ကချင်
+### ကချင် (Kachin)
 
 - က ချောင် လွမ်း နန်း	ka chaung lwan nan
 - က ချောင် လွမ်း နန်း	ka chaung lwan nang
@@ -256,7 +258,7 @@ Table. Possible Romanization of 10 Burmese Syllables
 - ဂျာ ဆိုင်း နန်	jar hseng nan
 - ဂျာ ဆိုင်း နန်	jar seng nan
 
-### ချင်း
+### ချင်း (Chin)
 
 - ကော့ မိုင်	kawt mai
 - ကော့ မိုင်	kawt mine
@@ -279,7 +281,7 @@ Table. Possible Romanization of 10 Burmese Syllables
 - ခိုင် ရှင်း ဆုန်	khine shin sone
 - လာန် ကျဲရ် ဆုန်	lan kyae sone
 
-### မွန်
+### မွန် (Mon)
 
 - မိ စော ဦး	mi saw oo
 - မိ စိုး	mi soe
@@ -287,7 +289,7 @@ Table. Possible Romanization of 10 Burmese Syllables
 - မိ စန္ဒာ မွန်	mi sandar mon
 
 
-### ရခိုင်
+### ရခိုင် (Rakhine)
 
 - ရဲ ကျော် သူ	ye kyaw thu
 - အေး မြ ကြည်	aye mya kyi
