@@ -30,7 +30,7 @@ Table. Possible Romanization of 10 Burmese Syllables
 
 ### ကရင်
 
-နော် ထူး စေး ဝါး ခိုင်	naw htoo say wah khaing  
+နော် ထူး စေး ဝါး ခိုင်\tnaw htoo say wah khaing  
 နော် ထူး စေး ဝါး ခိုင်	naw htoo say wah khine  
 နော် ထူး စေး ဝါး ခိုင်	naw htoo say war khaing  
 နော် ထူး စေး ဝါး ခိုင်	naw htoo say war khine  
