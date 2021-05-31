@@ -7,7 +7,7 @@
 ## in English
 Myanmar names are combined with syllables. Based on our study, current person-name corpus contains 1,489 syllables in total. Romanization of each syllable is collected based on the Romanization used by the current Myanmar people. The different pronunciations of each syllable is a key element of the current Burmese Romanization. For example, the Burmese syllable "ဝင်း" can be Romanized as "Win", "Winn" and "Wynn". The following table shows that 10 Myanmar syllable are mapped corresponding with their Romanized words.  
 
-<p align="center">
+<center>
   
 | No | Burmese Name | Romanized Burmese Name |
 |:----|:--------------:|:------------------------|
@@ -22,4 +22,5 @@ Myanmar names are combined with syllables. Based on our study, current person-na
 | 9. | ထူး | Htoo, Htue |
 | 10. | ခိုင် | Khine, Khaing |
 
-<p align="center"> Table. </p>
+Table. 
+</center>
