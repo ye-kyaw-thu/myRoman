@@ -9,7 +9,7 @@ Myanmar names are combined with syllables. Based on our study, current person-na
 
 <div align="center">
   
-| No | Burmese Name | Romanized Burmese Name |
+| No | Burmese Syllable | Romanized Burmese Syllable |
 |:----|:--------------:|:------------------------|
 | 1. | မှူး | Hmoo, Hmooe, Hmue, Mhoo, Mhooe, Mhue |
 | 2. | ဖူး | Phoo, Phu, Phuu, Phue |
@@ -22,6 +22,6 @@ Myanmar names are combined with syllables. Based on our study, current person-na
 | 9. | ထူး | Htoo, Htue |
 | 10. | ခိုင် | Khine, Khaing |
 
-Table. 
+Table. Possible Romanization of 10 Burmese Syllables
 
 </div>
