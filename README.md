@@ -1,7 +1,7 @@
 # myRoman
 Burmese Romanization Corpora (for both word &amp; sentence)
 
-**Sentence will be released after I (Ye) checked again. Please wait!  
+**Sentence will be released after I (Ye) checked again. Please wait!**  
 
 ```myRoman:``` stand for Myanmar Romanization.  
 myRoman is released under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).  
